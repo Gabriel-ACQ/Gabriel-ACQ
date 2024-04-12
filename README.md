@@ -1,6 +1,6 @@
 ### Olá meu nome é Gabriel  👋
 
-- 🔭 Atualmente trabalho em uma escola de cursos onde atuo como instrutor.
+- 🔭 Atualmente trabalho em uma escola de cursos onde atuo como coordenador didático.
 - 🌱 Atualmente estou estudando Python
 - ⚡ Curiosidade: 🎮 Gamer (MOBA & FPS)
 - 😄 Pronome: Ele/Dele
